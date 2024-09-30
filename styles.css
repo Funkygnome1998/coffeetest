@@ -1,0 +1,29 @@
+.container-fluid{
+    background-color: #415A77;
+}
+.header{
+    background-color: #0D1B2A;
+    width: 100%;
+    height: 10vh;
+    min-height: max-content;
+}
+.logo{
+    width: 10vh;
+    height: 10vh;
+}
+.d-block{
+    height: 50vh;
+    min-height: max-content;
+}
+.footer-container{
+    background-color: #778DA9;
+    height: 10vh;
+    min-height: max-content;
+}
+.text-container{
+    height: 25vh;
+    min-height: max-content;
+}
+li,ul{
+    list-style-type: none;
+}
